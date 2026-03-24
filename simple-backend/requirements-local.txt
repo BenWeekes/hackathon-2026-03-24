@@ -1,0 +1,4 @@
+# Local development dependencies
+-r requirements.txt
+python-dotenv==1.0.0
+flask==3.0.0
